@@ -1,0 +1,1 @@
+Default : spr_left,spr_down,spr_up,spr_right,spr_left_pressed,spr_down_pressed,spr_right_pressed,spr_up_pressed
